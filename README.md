@@ -1,7 +1,7 @@
-# Curency_rate
+## Curency_rate
 - работа с API
 - рапбота с postgreSQL
 
- # RFM_анализ
+ ## RFM_анализ
  - Pyspark
  - Spark SQL
