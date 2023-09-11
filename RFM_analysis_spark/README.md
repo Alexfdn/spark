@@ -1,2 +1,2 @@
-##RFM_analysis_spark
+RFM_analysis_spark
 Задание на проведение RFM-анализа данных с помощью инструмента Spark.
